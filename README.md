@@ -68,6 +68,9 @@ CIRCUIT DIAGRAM
 
 ### PROGRAM :
 ~~~
+Name: v.charan sai
+
+reg no:212221240061
 
 #include<Servo.h>
 Servo s1;
