@@ -90,8 +90,18 @@ void loop()
 }
 
 ~~~
+### Circuit Diagram:
+### Offset:
+![r1](https://user-images.githubusercontent.com/94296221/194714314-6aa1b546-b92f-4db7-9f25-f310443bd54d.png)
+
+### Onset:
+![r2](https://user-images.githubusercontent.com/94296221/194714317-3c180a4c-3c81-4d44-a715-30a6ddcbc907.png)
+
 ### Output:
-![169291226-82246a4c-596b-4f07-962f-25d2f8cfd3ae](https://user-images.githubusercontent.com/94296221/192778496-ee51a640-94c4-4ba2-b8d8-48ff31c7387b.png)
+### Serial monitor:
+![r3](https://user-images.githubusercontent.com/94296221/194714482-b8fa22e4-b1db-4612-abd2-419758214d4b.png)
+### Toggle graph:
+![r4](https://user-images.githubusercontent.com/94296221/194714522-243c471f-c21e-47fe-a6bd-a5243899c9a2.png)
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
